@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34300821736",
+    "project_id": "communication-ba27c",
+    "storage_bucket": "communication-ba27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34300821736:android:70a1c216c5827ec8c9c95d",
+        "android_client_info": {
+          "package_name": "com.magicx.communication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34300821736-v9mkrcgkjgjj62jv6s7gt7ivivhpsnfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6nkb97XUMShbTUHgbu4mLRaRGsCznjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34300821736-v9mkrcgkjgjj62jv6s7gt7ivivhpsnfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
